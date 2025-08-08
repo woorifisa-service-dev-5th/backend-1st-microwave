@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="dev.syntax.model.Microwave"/>
+    <fullyQualifiedTypeName name="dev.syntax.thread.Timer"/>
+    <fullyQualifiedTypeName name="dev.syntax.thread.HeatTask"/>
+</qualifiedTypeNameHistroy>

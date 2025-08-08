@@ -1,0 +1,10 @@
+package dev.syntax;
+
+import dev.syntax.model.Microwave;
+import dev.syntax.thread.Timer;
+
+public class MicrowaveMain {
+ Microwave microwave = new Microwave();
+ 
+ Thread timer = new Thread(new Timer(microwave));
+}

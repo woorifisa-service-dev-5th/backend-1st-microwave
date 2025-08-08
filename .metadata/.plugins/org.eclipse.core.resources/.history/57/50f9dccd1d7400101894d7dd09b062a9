@@ -1,0 +1,54 @@
+package dev.syntax;
+import dev.syntax.model.Microwave;
+import dev.syntax.thread.HeatTask;
+import dev.syntax.thread.Timer;
+
+import java.util.Scanner;
+
+public class MicrowaveMain {
+    public static void main(String[] args) {
+        Microwave microwave = new Microwave();
+        Timer timer = new Timer(microwave);
+        HeatTask heat = new HeatTask(microwave);
+        microwave.addListener(heat);
+        microwave.addListener(timer);
+        // HeatTask 실행 스레드
+        Thread timerThread = new Thread(timer);
+        Thread heatThread = new Thread(heat);
+        timerThread.start();
+        heatThread.start();
+        Scanner scanner = new Scanner(System.in);
+        while (true) {
+            System.out.println("\n====== 전자레인지 콘솔 테스트 ======");
+            System.out.println("1. 문 열기");
+            System.out.println("2. 문 닫기");
+            System.out.println("3. 전원 켜기");
+            System.out.println("4. 전원 끄기");
+            System.out.println("5. 종료");
+            System.out.print("입력: ");
+            String input = scanner.nextLine();
+            switch (input) {
+                case "1":
+                    microwave.setDoorOpened();
+                    System.out.println("[사용자] 문을 열었습니다.");
+                    break;
+                case "2":
+                    microwave.setDoorClosed();
+                    System.out.println("[사용자] 문을 닫았습니다.");
+                    break;
+                case "3":
+                    microwave.turnOn();
+                    break;
+                case "4":
+                    microwave.turnOff();
+                    break;
+                case "5":
+                    System.out.println("프로그램을 종료합니다.");
+                    timerThread.interrupt(); // 스레드 중단 요청
+                    return;
+                default:
+                    System.out.println("잘못된 입력입니다.");
+            }
+        }
+    }
+}

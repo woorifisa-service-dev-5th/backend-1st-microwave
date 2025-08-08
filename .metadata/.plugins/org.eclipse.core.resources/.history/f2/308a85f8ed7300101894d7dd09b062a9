@@ -1,0 +1,32 @@
+package dev.syntax.model;
+public class Microwave {
+	private boolean isOpened;
+	private boolean isRunning;
+	
+	public Microwave() {
+		super();
+		this.isOpened = false;
+		this.isRunning = false;
+	}
+	
+	public void turnOn() {
+		if (!isOpened) {
+			this.isRunning = true;			
+		} else {
+			System.out.println("문을 닫아주세요!");
+		}
+	}
+	
+	public void turnOff() {
+		this.isRunning = false;
+	}
+	
+	public void setDoorOpened() {
+		this.isOpened = true;
+	}
+	
+	public void setDoorClosed() {
+		this.isOpened = false;
+	}
+	
+}

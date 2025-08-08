@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+C:\woori_workspace\7.java\microwave\.metadata\.plugins\org.eclipse.jdt.core
+1052556136.index

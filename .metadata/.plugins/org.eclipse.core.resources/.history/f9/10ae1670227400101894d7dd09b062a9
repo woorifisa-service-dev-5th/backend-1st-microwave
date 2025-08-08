@@ -1,0 +1,82 @@
+package dev.syntax.thread;
+
+import dev.syntax.model.Microwave;
+import dev.syntax.model.MicrowaveListener;
+
+public class Timer implements Runnable, MicrowaveListener {
+	private int remainTime;
+
+	private Microwave microwave;
+
+	public Timer(Microwave microwave) {
+		super();
+		this.microwave = microwave;
+	}
+
+	/**
+	 * 1. 사용자가 아예 타이머를 끈 (종료)상태 2. 시간이 다 됐을 때 종료 알람 3. 남은 시간을 찍어주는 기능
+	 */
+	public synchronized void cancelTimer() {
+		microwave.turnOff();
+		System.out.println("[타이머] 사용자가 타이머를 종료했습니다.");
+	}
+
+	public synchronized void finishAlarm() {
+		microwave.setTime(0);
+		microwave.turnOff();
+		System.out.println("[타이머] 띠리리리~ 요리가 완료되었습니다!");
+
+	}
+
+	
+
+	@Override
+	public void run() {
+		while (true) {
+			synchronized (this) {
+				while (!microwave.getIsRunning()) {
+					//System.out.println("문열림");
+					try {
+						//System.out.println("타이머 멈춤: " + microwave.getTime());
+						wait();
+					} catch (InterruptedException e) {
+						break;
+					}
+				}
+			}
+			
+			if(microwave.getIsRunning()) {
+				remainTime = microwave.getTime()-1;
+				microwave.setTime(remainTime);
+				sleep(1000);
+				//System.out.println("남은 시간 :" + remainTime + "초 입니다.");
+
+			}
+			
+
+			if (remainTime <= 0) {
+				finishAlarm();
+			}
+		}
+	}
+    private void sleep(long ms) {
+        try {
+            Thread.sleep(ms);
+        } catch (InterruptedException e) {
+            Thread.currentThread().interrupt();
+        }
+    }
+	@Override
+	public void onStart() {
+		System.out.println("[TimerTask] 타이머 시작 신호 받음");
+		synchronized (this) {
+			this.notify();
+		}
+	}
+
+	@Override
+	public void onStop() {
+		System.out.println("[TimerTask] 타이머 중지 신호 받음");
+	}
+
+}

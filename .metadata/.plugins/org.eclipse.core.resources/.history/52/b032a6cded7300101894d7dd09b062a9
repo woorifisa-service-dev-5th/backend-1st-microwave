@@ -1,0 +1,15 @@
+package dev.syntax.thread;
+
+import dev.syntax.model.Microwave;
+
+public class Timer implements Runnable{
+	private int remainTime;
+	
+	private Microwave microwave;
+	
+	
+	
+	
+	
+
+}

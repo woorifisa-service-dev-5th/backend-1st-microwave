@@ -1,0 +1,43 @@
+package dev.syntax.thread;
+
+import dev.syntax.model.Microwave;
+
+public class Timer implements Runnable{
+	private int remainTime;
+	
+	private Microwave microwave;
+
+	public Timer(Microwave microwave) {
+		super();
+		this.microwave = microwave;
+	}
+	
+
+	
+	/**
+	 * 1. 사용자가 아예 타이머를 끈 (종료)상태
+	 * 2. 시간이 다 됐을 때 종료 알람
+	 * 3. 남은 시간을 로그로 찍어주는 기능
+	 */
+	public synchronized void cancelTimer(){
+		microwave.turnOff();
+		System.out.println("[타이머] 사용자가 타이머를 종료했습니다.");
+	}
+	
+	public synchronized void finishAlarm() {
+		microwave.setTime(0);
+		microwave.turnOff();
+		System.out.println("[타이머] 띠리리리~ 요리가 완료되었습니다!");
+		
+	}
+	
+	
+	@Override
+	public void run() {
+		
+	}
+	
+	
+	
+
+}
