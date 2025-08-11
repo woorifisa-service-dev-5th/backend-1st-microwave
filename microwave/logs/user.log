@@ -1,0 +1,204 @@
+2025-08-08 17:46:12 [Thread-2] DEBUG User - User#1 ìŠ¤ë ˆë“œ ì‹œì‘
+2025-08-08 17:46:12 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:46:22 [Thread-2] DEBUG User - ì…ë ¥ê°’: 1
+2025-08-08 17:46:22 [Thread-2] INFO  User - ë¬¸ ì—´ê¸° ìš”ì²­
+2025-08-08 17:46:22 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:46:24 [Thread-2] DEBUG User - ì…ë ¥ê°’: 3
+2025-08-08 17:46:24 [Thread-2] INFO  User - ì‘ë™ ì‹œì‘ ìš”ì²­
+2025-08-08 17:46:24 [Thread-2] INFO  User - ì‘ë™ ì‹œê°„ ì…ë ¥
+2025-08-08 17:46:27 [Thread-2] DEBUG User - ì‚¬ìš©ì ì…ë ¥ ì‹œê°„: 50ì´ˆ
+2025-08-08 17:46:27 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:46:28 [Thread-2] DEBUG User - ì…ë ¥ê°’: 1
+2025-08-08 17:46:28 [Thread-2] INFO  User - ë¬¸ ì—´ê¸° ìš”ì²­
+2025-08-08 17:46:28 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:46:35 [Thread-2] DEBUG User - ì…ë ¥ê°’: 2
+2025-08-08 17:46:35 [Thread-2] INFO  User - ë¬¸ ë‹«ê¸° ìš”ì²­
+2025-08-08 17:46:35 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:46:39 [Thread-2] DEBUG User - ì…ë ¥ê°’: 1
+2025-08-08 17:46:39 [Thread-2] INFO  User - ë¬¸ ì—´ê¸° ìš”ì²­
+2025-08-08 17:46:39 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:46:45 [Thread-2] DEBUG User - ì…ë ¥ê°’: 5
+2025-08-08 17:46:45 [Thread-2] INFO  User - ì‹œê°„ í™•ì¸ ìš”ì²­
+2025-08-08 17:46:45 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:46:50 [Thread-2] DEBUG User - ì…ë ¥ê°’: 5
+2025-08-08 17:46:50 [Thread-2] INFO  User - ì‹œê°„ í™•ì¸ ìš”ì²­
+2025-08-08 17:46:50 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:47:15 [Thread-2] DEBUG User - User#1 ìŠ¤ë ˆë“œ ì‹œì‘
+2025-08-08 17:47:15 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:48:07 [Thread-2] DEBUG User - User#1 ìŠ¤ë ˆë“œ ì‹œì‘
+2025-08-08 17:48:07 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:48:12 [Thread-2] DEBUG User - ì…ë ¥ê°’: 1
+2025-08-08 17:48:12 [Thread-2] INFO  User - ë¬¸ ì—´ê¸° ìš”ì²­
+2025-08-08 17:48:12 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:48:15 [Thread-2] DEBUG User - ì…ë ¥ê°’: 3
+2025-08-08 17:48:15 [Thread-2] INFO  User - ì‘ë™ ì‹œì‘ ìš”ì²­
+2025-08-08 17:48:15 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:48:16 [Thread-2] DEBUG User - ì…ë ¥ê°’: 2
+2025-08-08 17:48:16 [Thread-2] INFO  User - ë¬¸ ë‹«ê¸° ìš”ì²­
+2025-08-08 17:48:16 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:48:17 [Thread-2] DEBUG User - ì…ë ¥ê°’: 3
+2025-08-08 17:48:17 [Thread-2] INFO  User - ì‘ë™ ì‹œì‘ ìš”ì²­
+2025-08-08 17:48:17 [Thread-2] INFO  User - ì‘ë™ ì‹œê°„ ì…ë ¥
+2025-08-08 17:48:19 [Thread-2] DEBUG User - ì‚¬ìš©ì ì…ë ¥ ì‹œê°„: 35ì´ˆ
+2025-08-08 17:48:19 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:48:20 [Thread-2] DEBUG User - ì…ë ¥ê°’: 5
+2025-08-08 17:48:20 [Thread-2] INFO  User - ì‹œê°„ í™•ì¸ ìš”ì²­
+2025-08-08 17:48:20 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:48:23 [Thread-2] DEBUG User - ì…ë ¥ê°’: 1
+2025-08-08 17:48:23 [Thread-2] INFO  User - ë¬¸ ì—´ê¸° ìš”ì²­
+2025-08-08 17:48:23 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:48:24 [Thread-2] DEBUG User - ì…ë ¥ê°’: 2
+2025-08-08 17:48:24 [Thread-2] INFO  User - ë¬¸ ë‹«ê¸° ìš”ì²­
+2025-08-08 17:48:24 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:48:26 [Thread-2] DEBUG User - ì…ë ¥ê°’: 3
+2025-08-08 17:48:26 [Thread-2] INFO  User - ì‘ë™ ì‹œì‘ ìš”ì²­
+2025-08-08 17:48:26 [Thread-2] DEBUG User - ë‚¨ì€ ì‹œê°„ ìˆìŒ â†’ ì¦‰ì‹œ ì‘ë™
+2025-08-08 17:48:26 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:48:28 [Thread-2] DEBUG User - ì…ë ¥ê°’: 3
+2025-08-08 17:48:28 [Thread-2] INFO  User - ì‘ë™ ì‹œì‘ ìš”ì²­
+2025-08-08 17:48:28 [Thread-2] DEBUG User - ë‚¨ì€ ì‹œê°„ ìˆìŒ â†’ ì¦‰ì‹œ ì‘ë™
+2025-08-08 17:48:28 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:48:31 [Thread-2] DEBUG User - ì…ë ¥ê°’: 4
+2025-08-08 17:48:31 [Thread-2] INFO  User - ì‘ë™ ë©ˆì¶”ê¸° ìš”ì²­
+2025-08-08 17:48:31 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:48:39 [Thread-2] DEBUG User - ì…ë ¥ê°’: 3
+2025-08-08 17:48:39 [Thread-2] INFO  User - ì‘ë™ ì‹œì‘ ìš”ì²­
+2025-08-08 17:48:39 [Thread-2] DEBUG User - ë‚¨ì€ ì‹œê°„ ìˆìŒ â†’ ì¦‰ì‹œ ì‘ë™
+2025-08-08 17:48:39 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:48:45 [Thread-2] DEBUG User - ì…ë ¥ê°’: 5
+2025-08-08 17:48:45 [Thread-2] INFO  User - ì‹œê°„ í™•ì¸ ìš”ì²­
+2025-08-08 17:48:45 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:49:00 [Thread-2] DEBUG User - ì…ë ¥ê°’: 8
+2025-08-08 17:49:00 [Thread-2] WARN  User - ì˜ëª»ëœ ì…ë ¥: 8
+2025-08-08 17:49:00 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-08 17:49:02 [Thread-2] DEBUG User - ì…ë ¥ê°’: 5
+2025-08-08 17:49:02 [Thread-2] INFO  User - ì‹œê°„ í™•ì¸ ìš”ì²­
+2025-08-08 17:49:02 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-11 09:05:21 [Thread-2] DEBUG User - User#1 ìŠ¤ë ˆë“œ ì‹œì‘
+2025-08-11 09:05:21 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-11 09:05:24 [Thread-2] DEBUG User - ì…ë ¥ê°’: 1
+2025-08-11 09:05:24 [Thread-2] INFO  User - ë¬¸ ì—´ê¸° ìš”ì²­
+2025-08-11 09:05:24 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-11 09:05:26 [Thread-2] DEBUG User - ì…ë ¥ê°’: 2
+2025-08-11 09:05:26 [Thread-2] INFO  User - ë¬¸ ë‹«ê¸° ìš”ì²­
+2025-08-11 09:05:26 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-11 09:05:29 [Thread-2] DEBUG User - ì…ë ¥ê°’: 1
+2025-08-11 09:05:29 [Thread-2] INFO  User - ë¬¸ ì—´ê¸° ìš”ì²­
+2025-08-11 09:05:29 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-11 09:05:29 [Thread-2] DEBUG User - ì…ë ¥ê°’: 3
+2025-08-11 09:05:29 [Thread-2] INFO  User - ì‘ë™ ì‹œì‘ ìš”ì²­
+2025-08-11 09:05:29 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-11 09:05:32 [Thread-2] DEBUG User - ì…ë ¥ê°’: 2
+2025-08-11 09:05:32 [Thread-2] INFO  User - ë¬¸ ë‹«ê¸° ìš”ì²­
+2025-08-11 09:05:32 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-11 09:05:35 [Thread-2] DEBUG User - ì…ë ¥ê°’: 3
+2025-08-11 09:05:35 [Thread-2] INFO  User - ì‘ë™ ì‹œì‘ ìš”ì²­
+2025-08-11 09:05:35 [Thread-2] INFO  User - ì‘ë™ ì‹œê°„ ì…ë ¥
+2025-08-11 09:05:38 [Thread-2] DEBUG User - ì‚¬ìš©ì ì…ë ¥ ì‹œê°„: 20ì´ˆ
+2025-08-11 09:05:38 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-11 09:05:39 [Thread-2] DEBUG User - ì…ë ¥ê°’: 1
+2025-08-11 09:05:39 [Thread-2] INFO  User - ë¬¸ ì—´ê¸° ìš”ì²­
+2025-08-11 09:05:39 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-11 09:05:45 [Thread-2] DEBUG User - ì…ë ¥ê°’: 2
+2025-08-11 09:05:45 [Thread-2] INFO  User - ë¬¸ ë‹«ê¸° ìš”ì²­
+2025-08-11 09:05:45 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-11 09:10:09 [Thread-2] DEBUG User - User#1 ½º·¹µå ½ÃÀÛ
+2025-08-11 09:10:09 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:10:17 [Thread-2] DEBUG User - ÀÔ·Â°ª: 1
+2025-08-11 09:10:17 [Thread-2] INFO  User - ¹® ¿­±â ¿äÃ»
+2025-08-11 09:10:17 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:10:22 [Thread-2] DEBUG User - ÀÔ·Â°ª: 2
+2025-08-11 09:10:22 [Thread-2] INFO  User - ¹® ´İ±â ¿äÃ»
+2025-08-11 09:10:22 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:10:28 [Thread-2] DEBUG User - ÀÔ·Â°ª: 3
+2025-08-11 09:10:28 [Thread-2] INFO  User - ÀÛµ¿ ½ÃÀÛ ¿äÃ»
+2025-08-11 09:10:28 [Thread-2] INFO  User - ÀÛµ¿ ½Ã°£ ÀÔ·Â
+2025-08-11 09:10:30 [Thread-2] DEBUG User - »ç¿ëÀÚ ÀÔ·Â ½Ã°£: 20ÃÊ
+2025-08-11 09:10:30 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:10:32 [Thread-2] DEBUG User - ÀÔ·Â°ª: 1
+2025-08-11 09:10:32 [Thread-2] INFO  User - ¹® ¿­±â ¿äÃ»
+2025-08-11 09:10:32 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:10:45 [Thread-2] DEBUG User - ÀÔ·Â°ª: 3
+2025-08-11 09:10:45 [Thread-2] INFO  User - ÀÛµ¿ ½ÃÀÛ ¿äÃ»
+2025-08-11 09:10:45 [Thread-2] DEBUG User - ³²Àº ½Ã°£ ÀÖÀ½ ¡æ Áï½Ã ÀÛµ¿
+2025-08-11 09:10:45 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:10:48 [Thread-2] DEBUG User - ÀÔ·Â°ª: 2
+2025-08-11 09:10:48 [Thread-2] INFO  User - ¹® ´İ±â ¿äÃ»
+2025-08-11 09:10:48 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:10:51 [Thread-2] DEBUG User - ÀÔ·Â°ª: 5
+2025-08-11 09:10:51 [Thread-2] INFO  User - ½Ã°£ È®ÀÎ ¿äÃ»
+2025-08-11 09:10:51 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:10:54 [Thread-2] DEBUG User - ÀÔ·Â°ª: 4
+2025-08-11 09:10:54 [Thread-2] INFO  User - ÀÛµ¿ ¸ØÃß±â ¿äÃ»
+2025-08-11 09:10:54 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:10:57 [Thread-2] DEBUG User - ÀÔ·Â°ª: 5
+2025-08-11 09:10:57 [Thread-2] INFO  User - ½Ã°£ È®ÀÎ ¿äÃ»
+2025-08-11 09:10:57 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:11:02 [Thread-2] DEBUG User - ÀÔ·Â°ª: 3
+2025-08-11 09:11:02 [Thread-2] INFO  User - ÀÛµ¿ ½ÃÀÛ ¿äÃ»
+2025-08-11 09:11:02 [Thread-2] DEBUG User - ³²Àº ½Ã°£ ÀÖÀ½ ¡æ Áï½Ã ÀÛµ¿
+2025-08-11 09:11:02 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:11:04 [Thread-2] DEBUG User - ÀÔ·Â°ª: 5
+2025-08-11 09:11:04 [Thread-2] INFO  User - ½Ã°£ È®ÀÎ ¿äÃ»
+2025-08-11 09:11:04 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:11:39 [Thread-2] DEBUG User - User#1 ½º·¹µå ½ÃÀÛ
+2025-08-11 09:11:39 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:12:20 [Thread-2] DEBUG User - ÀÔ·Â°ª: 1
+2025-08-11 09:12:20 [Thread-2] INFO  User - ¹® ¿­±â ¿äÃ»
+2025-08-11 09:12:20 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:12:21 [Thread-2] DEBUG User - ÀÔ·Â°ª: 3
+2025-08-11 09:12:21 [Thread-2] INFO  User - ÀÛµ¿ ½ÃÀÛ ¿äÃ»
+2025-08-11 09:12:21 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:14:01 [Thread-2] DEBUG User - ÀÔ·Â°ª: 1
+2025-08-11 09:14:01 [Thread-2] INFO  User - ¹® ¿­±â ¿äÃ»
+2025-08-11 09:14:01 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:14:04 [Thread-2] DEBUG User - ÀÔ·Â°ª: 3
+2025-08-11 09:14:04 [Thread-2] INFO  User - ÀÛµ¿ ½ÃÀÛ ¿äÃ»
+2025-08-11 09:14:04 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:14:06 [Thread-2] DEBUG User - ÀÔ·Â°ª: 2
+2025-08-11 09:14:06 [Thread-2] INFO  User - ¹® ´İ±â ¿äÃ»
+2025-08-11 09:14:06 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:14:08 [Thread-2] DEBUG User - ÀÔ·Â°ª: 3
+2025-08-11 09:14:08 [Thread-2] INFO  User - ÀÛµ¿ ½ÃÀÛ ¿äÃ»
+2025-08-11 09:14:08 [Thread-2] INFO  User - ÀÛµ¿ ½Ã°£ ÀÔ·Â
+2025-08-11 09:14:11 [Thread-2] DEBUG User - »ç¿ëÀÚ ÀÔ·Â ½Ã°£: 20ÃÊ
+2025-08-11 09:14:11 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:14:13 [Thread-2] DEBUG User - ÀÔ·Â°ª: 1
+2025-08-11 09:14:13 [Thread-2] INFO  User - ¹® ¿­±â ¿äÃ»
+2025-08-11 09:14:13 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:15:25 [Thread-2] DEBUG User - ÀÔ·Â°ª: 2
+2025-08-11 09:15:25 [Thread-2] INFO  User - ¹® ´İ±â ¿äÃ»
+2025-08-11 09:15:25 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:15:29 [Thread-2] DEBUG User - ÀÔ·Â°ª: 5
+2025-08-11 09:15:29 [Thread-2] INFO  User - ½Ã°£ È®ÀÎ ¿äÃ»
+2025-08-11 09:15:29 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:15:33 [Thread-2] DEBUG User - ÀÔ·Â°ª: 4
+2025-08-11 09:15:33 [Thread-2] INFO  User - ÀÛµ¿ ¸ØÃß±â ¿äÃ»
+2025-08-11 09:15:33 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:15:37 [Thread-2] DEBUG User - ÀÔ·Â°ª: 5
+2025-08-11 09:15:37 [Thread-2] INFO  User - ½Ã°£ È®ÀÎ ¿äÃ»
+2025-08-11 09:15:37 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:17:05 [Thread-2] DEBUG User - ÀÔ·Â°ª: 3
+2025-08-11 09:17:05 [Thread-2] INFO  User - ÀÛµ¿ ½ÃÀÛ ¿äÃ»
+2025-08-11 09:17:05 [Thread-2] DEBUG User - ³²Àº ½Ã°£ ÀÖÀ½ ¡æ Áï½Ã ÀÛµ¿
+2025-08-11 09:17:05 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 09:31:14 [Thread-2] DEBUG User - User#1 ìŠ¤ë ˆë“œ ì‹œì‘
+2025-08-11 09:31:15 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-11 09:38:33 [Thread-2] DEBUG User - User#1 ìŠ¤ë ˆë“œ ì‹œì‘
+2025-08-11 09:38:33 [Thread-2] DEBUG User - User#1 ì…ë ¥ ëŒ€ê¸° ì¤‘
+2025-08-11 10:21:35 [Thread-2] DEBUG User - User#1 ½º·¹µå ½ÃÀÛ
+2025-08-11 10:21:35 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 10:21:41 [Thread-2] DEBUG User - ÀÔ·Â°ª: 3
+2025-08-11 10:21:41 [Thread-2] INFO  User - ÀÛµ¿ ½ÃÀÛ ¿äÃ»
+2025-08-11 10:21:41 [Thread-2] INFO  User - ÀÛµ¿ ½Ã°£ ÀÔ·Â
+2025-08-11 10:21:41 [Thread-2] DEBUG User - »ç¿ëÀÚ ÀÔ·Â ½Ã°£: 30ÃÊ
+2025-08-11 10:21:41 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 10:21:49 [Thread-2] DEBUG User - ÀÔ·Â°ª: 1
+2025-08-11 10:21:49 [Thread-2] INFO  User - ¹® ¿­±â ¿äÃ»
+2025-08-11 10:21:49 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 10:21:53 [Thread-2] DEBUG User - ÀÔ·Â°ª: 5
+2025-08-11 10:21:53 [Thread-2] INFO  User - ½Ã°£ È®ÀÎ ¿äÃ»
+2025-08-11 10:21:53 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß
+2025-08-11 10:21:56 [Thread-2] DEBUG User - ÀÔ·Â°ª: 2
+2025-08-11 10:21:56 [Thread-2] INFO  User - ¹® ´İ±â ¿äÃ»
+2025-08-11 10:21:56 [Thread-2] DEBUG User - User#1 ÀÔ·Â ´ë±â Áß

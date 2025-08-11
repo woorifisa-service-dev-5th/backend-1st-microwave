@@ -1,0 +1,303 @@
+2025-08-08 17:46:12 [Thread-1] INFO  HeatTask - ê°€ì—´ ì¼ì‹œì •ì§€ë¨, ëŒ€ê¸° ì¤‘...
+2025-08-08 17:46:35 [Thread-2] INFO  HeatTask - [HeatTask] ê°€ì—´ ì‹œì‘ ì‹ í˜¸ ë°›ìŒ â†’ ìŠ¤ë ˆë“œ ê¹¨ì›€
+2025-08-08 17:46:35 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:46:35 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 23ë„
+2025-08-08 17:46:36 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:46:36 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 26ë„
+2025-08-08 17:46:37 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:46:37 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 29ë„
+2025-08-08 17:46:38 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:46:38 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 32ë„
+2025-08-08 17:46:39 [Thread-2] INFO  HeatTask - [HeatTask] ê°€ì—´ ì¤‘ì§€ ì‹ í˜¸ ë°›ìŒ
+2025-08-08 17:46:39 [Thread-1] INFO  HeatTask - ê°€ì—´ ì¼ì‹œì •ì§€ë¨, ëŒ€ê¸° ì¤‘...
+2025-08-08 17:47:15 [Thread-1] INFO  HeatTask - ê°€ì—´ ì¼ì‹œì •ì§€ë¨, ëŒ€ê¸° ì¤‘...
+2025-08-08 17:48:07 [Thread-1] INFO  HeatTask - ê°€ì—´ ì¼ì‹œì •ì§€ë¨, ëŒ€ê¸° ì¤‘...
+2025-08-08 17:48:19 [Thread-2] INFO  HeatTask - [HeatTask] ê°€ì—´ ì‹œì‘ ì‹ í˜¸ ë°›ìŒ â†’ ìŠ¤ë ˆë“œ ê¹¨ì›€
+2025-08-08 17:48:19 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:19 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 23ë„
+2025-08-08 17:48:20 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:20 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 26ë„
+2025-08-08 17:48:21 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:21 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 29ë„
+2025-08-08 17:48:22 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:22 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 32ë„
+2025-08-08 17:48:23 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:23 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 35ë„
+2025-08-08 17:48:23 [Thread-2] INFO  HeatTask - [HeatTask] ê°€ì—´ ì¤‘ì§€ ì‹ í˜¸ ë°›ìŒ
+2025-08-08 17:48:24 [Thread-1] INFO  HeatTask - ê°€ì—´ ì¼ì‹œì •ì§€ë¨, ëŒ€ê¸° ì¤‘...
+2025-08-08 17:48:24 [Thread-2] INFO  HeatTask - [HeatTask] ê°€ì—´ ì‹œì‘ ì‹ í˜¸ ë°›ìŒ â†’ ìŠ¤ë ˆë“œ ê¹¨ì›€
+2025-08-08 17:48:24 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:24 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 38ë„
+2025-08-08 17:48:25 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:25 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 41ë„
+2025-08-08 17:48:26 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:26 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 44ë„
+2025-08-08 17:48:27 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:27 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 47ë„
+2025-08-08 17:48:28 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:28 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 50ë„
+2025-08-08 17:48:30 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:30 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 53ë„
+2025-08-08 17:48:31 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:31 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 56ë„
+2025-08-08 17:48:31 [Thread-2] INFO  HeatTask - [HeatTask] ê°€ì—´ ì¤‘ì§€ ì‹ í˜¸ ë°›ìŒ
+2025-08-08 17:48:32 [Thread-1] INFO  HeatTask - ê°€ì—´ ì¼ì‹œì •ì§€ë¨, ëŒ€ê¸° ì¤‘...
+2025-08-08 17:48:39 [Thread-2] INFO  HeatTask - [HeatTask] ê°€ì—´ ì‹œì‘ ì‹ í˜¸ ë°›ìŒ â†’ ìŠ¤ë ˆë“œ ê¹¨ì›€
+2025-08-08 17:48:39 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:39 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 59ë„
+2025-08-08 17:48:40 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:40 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 62ë„
+2025-08-08 17:48:41 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:41 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 65ë„
+2025-08-08 17:48:42 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:42 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 68ë„
+2025-08-08 17:48:43 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:43 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 71ë„
+2025-08-08 17:48:44 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:44 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 74ë„
+2025-08-08 17:48:45 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:45 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 77ë„
+2025-08-08 17:48:46 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:46 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 80ë„
+2025-08-08 17:48:47 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:47 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 83ë„
+2025-08-08 17:48:48 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:48 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 86ë„
+2025-08-08 17:48:49 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:49 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 89ë„
+2025-08-08 17:48:50 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:50 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 92ë„
+2025-08-08 17:48:51 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:51 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 95ë„
+2025-08-08 17:48:53 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:53 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 98ë„
+2025-08-08 17:48:54 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:54 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 100ë„
+2025-08-08 17:48:55 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:55 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 100ë„
+2025-08-08 17:48:56 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:56 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 100ë„
+2025-08-08 17:48:57 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:57 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 100ë„
+2025-08-08 17:48:58 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:58 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 100ë„
+2025-08-08 17:48:59 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:48:59 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 100ë„
+2025-08-08 17:49:00 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:49:00 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 100ë„
+2025-08-08 17:49:01 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:49:01 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 100ë„
+2025-08-08 17:49:02 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:49:02 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 100ë„
+2025-08-08 17:49:03 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-08 17:49:03 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 100ë„
+2025-08-08 17:49:03 [Thread-0] INFO  HeatTask - [HeatTask] ê°€ì—´ ì¤‘ì§€ ì‹ í˜¸ ë°›ìŒ
+2025-08-08 17:49:04 [Thread-1] INFO  HeatTask - ê°€ì—´ ì¼ì‹œì •ì§€ë¨, ëŒ€ê¸° ì¤‘...
+2025-08-11 09:05:21 [Thread-1] INFO  HeatTask - ê°€ì—´ ì¼ì‹œì •ì§€ë¨, ëŒ€ê¸° ì¤‘...
+2025-08-11 09:05:38 [Thread-2] INFO  HeatTask - [HeatTask] ê°€ì—´ ì‹œì‘ ì‹ í˜¸ ë°›ìŒ â†’ ìŠ¤ë ˆë“œ ê¹¨ì›€
+2025-08-11 09:05:38 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-11 09:05:38 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 23ë„
+2025-08-11 09:05:39 [Thread-2] INFO  HeatTask - [HeatTask] ê°€ì—´ ì¤‘ì§€ ì‹ í˜¸ ë°›ìŒ
+2025-08-11 09:05:39 [Thread-1] INFO  HeatTask - ê°€ì—´ ì¼ì‹œì •ì§€ë¨, ëŒ€ê¸° ì¤‘...
+2025-08-11 09:05:45 [Thread-2] INFO  HeatTask - [HeatTask] ê°€ì—´ ì‹œì‘ ì‹ í˜¸ ë°›ìŒ â†’ ìŠ¤ë ˆë“œ ê¹¨ì›€
+2025-08-11 09:05:45 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-11 09:05:45 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 26ë„
+2025-08-11 09:05:46 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-11 09:05:46 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 29ë„
+2025-08-11 09:05:47 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-11 09:05:47 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 32ë„
+2025-08-11 09:05:48 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-11 09:05:48 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 35ë„
+2025-08-11 09:05:49 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-11 09:05:49 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 38ë„
+2025-08-11 09:05:50 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-11 09:05:50 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 41ë„
+2025-08-11 09:05:51 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-11 09:05:51 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 44ë„
+2025-08-11 09:05:52 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-11 09:05:52 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 47ë„
+2025-08-11 09:05:53 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-11 09:05:53 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 50ë„
+2025-08-11 09:05:54 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-11 09:05:54 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 53ë„
+2025-08-11 09:05:55 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-11 09:05:55 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 56ë„
+2025-08-11 09:05:56 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-11 09:05:56 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 59ë„
+2025-08-11 09:05:57 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-11 09:05:57 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 62ë„
+2025-08-11 09:05:58 [Thread-1] DEBUG HeatTask - 3ë„ì”© ê°€ì—´ì¤‘!!
+2025-08-11 09:05:58 [Thread-1] DEBUG HeatTask - í˜„ì¬ ì˜¨ë„: 65ë„
+2025-08-11 09:10:09 [Thread-1] INFO  HeatTask - °¡¿­ ÀÏ½ÃÁ¤ÁöµÊ, ´ë±â Áß...
+2025-08-11 09:10:30 [Thread-2] INFO  HeatTask - [HeatTask] °¡¿­ ½ÃÀÛ ½ÅÈ£ ¹ŞÀ½ ¡æ ½º·¹µå ±ú¿ò
+2025-08-11 09:10:30 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:10:30 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 23µµ
+2025-08-11 09:10:31 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:10:31 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 26µµ
+2025-08-11 09:10:32 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:10:32 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 29µµ
+2025-08-11 09:10:32 [Thread-2] INFO  HeatTask - [HeatTask] °¡¿­ ÁßÁö ½ÅÈ£ ¹ŞÀ½
+2025-08-11 09:10:33 [Thread-1] INFO  HeatTask - °¡¿­ ÀÏ½ÃÁ¤ÁöµÊ, ´ë±â Áß...
+2025-08-11 09:10:48 [Thread-2] INFO  HeatTask - [HeatTask] °¡¿­ ½ÃÀÛ ½ÅÈ£ ¹ŞÀ½ ¡æ ½º·¹µå ±ú¿ò
+2025-08-11 09:10:48 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:10:48 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 32µµ
+2025-08-11 09:10:49 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:10:49 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 35µµ
+2025-08-11 09:10:50 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:10:50 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 38µµ
+2025-08-11 09:10:51 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:10:51 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 41µµ
+2025-08-11 09:10:52 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:10:52 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 44µµ
+2025-08-11 09:10:53 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:10:53 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 47µµ
+2025-08-11 09:10:54 [Thread-2] INFO  HeatTask - [HeatTask] °¡¿­ ÁßÁö ½ÅÈ£ ¹ŞÀ½
+2025-08-11 09:10:54 [Thread-1] INFO  HeatTask - °¡¿­ ÀÏ½ÃÁ¤ÁöµÊ, ´ë±â Áß...
+2025-08-11 09:11:02 [Thread-2] INFO  HeatTask - [HeatTask] °¡¿­ ½ÃÀÛ ½ÅÈ£ ¹ŞÀ½ ¡æ ½º·¹µå ±ú¿ò
+2025-08-11 09:11:02 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:11:02 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 50µµ
+2025-08-11 09:11:03 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:11:03 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 53µµ
+2025-08-11 09:11:04 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:11:04 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 56µµ
+2025-08-11 09:11:05 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:11:05 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 59µµ
+2025-08-11 09:11:06 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:11:06 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 62µµ
+2025-08-11 09:11:07 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:11:07 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 65µµ
+2025-08-11 09:11:08 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:11:08 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 68µµ
+2025-08-11 09:11:09 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:11:09 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 71µµ
+2025-08-11 09:11:10 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:11:10 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 74µµ
+2025-08-11 09:11:11 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:11:11 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 77µµ
+2025-08-11 09:11:12 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:11:12 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 80µµ
+2025-08-11 09:11:13 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:11:13 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 83µµ
+2025-08-11 09:11:13 [Thread-0] INFO  HeatTask - [HeatTask] °¡¿­ ÁßÁö ½ÅÈ£ ¹ŞÀ½
+2025-08-11 09:11:14 [Thread-1] INFO  HeatTask - °¡¿­ ÀÏ½ÃÁ¤ÁöµÊ, ´ë±â Áß...
+2025-08-11 09:11:39 [Thread-1] INFO  HeatTask - °¡¿­ ÀÏ½ÃÁ¤ÁöµÊ, ´ë±â Áß...
+2025-08-11 09:14:11 [Thread-2] INFO  HeatTask - [HeatTask] °¡¿­ ½ÃÀÛ ½ÅÈ£ ¹ŞÀ½ ¡æ ½º·¹µå ±ú¿ò
+2025-08-11 09:14:11 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:14:11 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 23µµ
+2025-08-11 09:14:12 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:14:12 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 26µµ
+2025-08-11 09:14:13 [Thread-2] INFO  HeatTask - [HeatTask] °¡¿­ ÁßÁö ½ÅÈ£ ¹ŞÀ½
+2025-08-11 09:14:13 [Thread-1] INFO  HeatTask - °¡¿­ ÀÏ½ÃÁ¤ÁöµÊ, ´ë±â Áß...
+2025-08-11 09:15:25 [Thread-2] INFO  HeatTask - [HeatTask] °¡¿­ ½ÃÀÛ ½ÅÈ£ ¹ŞÀ½ ¡æ ½º·¹µå ±ú¿ò
+2025-08-11 09:15:25 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:15:25 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 29µµ
+2025-08-11 09:15:26 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:15:26 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 32µµ
+2025-08-11 09:15:27 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:15:27 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 35µµ
+2025-08-11 09:15:28 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:15:28 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 38µµ
+2025-08-11 09:15:29 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:15:29 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 41µµ
+2025-08-11 09:15:30 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:15:30 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 44µµ
+2025-08-11 09:15:31 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:15:31 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 47µµ
+2025-08-11 09:15:32 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:15:32 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 50µµ
+2025-08-11 09:15:33 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:15:33 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 53µµ
+2025-08-11 09:15:33 [Thread-2] INFO  HeatTask - [HeatTask] °¡¿­ ÁßÁö ½ÅÈ£ ¹ŞÀ½
+2025-08-11 09:15:34 [Thread-1] INFO  HeatTask - °¡¿­ ÀÏ½ÃÁ¤ÁöµÊ, ´ë±â Áß...
+2025-08-11 09:17:05 [Thread-2] INFO  HeatTask - [HeatTask] °¡¿­ ½ÃÀÛ ½ÅÈ£ ¹ŞÀ½ ¡æ ½º·¹µå ±ú¿ò
+2025-08-11 09:17:05 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:17:05 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 56µµ
+2025-08-11 09:17:06 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:17:06 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 59µµ
+2025-08-11 09:17:07 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:17:07 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 62µµ
+2025-08-11 09:17:08 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:17:08 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 65µµ
+2025-08-11 09:17:09 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:17:09 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 68µµ
+2025-08-11 09:17:10 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:17:10 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 71µµ
+2025-08-11 09:17:11 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:17:11 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 74µµ
+2025-08-11 09:17:12 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:17:12 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 77µµ
+2025-08-11 09:17:13 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:17:13 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 80µµ
+2025-08-11 09:17:14 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 09:17:14 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 83µµ
+2025-08-11 09:17:14 [Thread-0] INFO  HeatTask - [HeatTask] °¡¿­ ÁßÁö ½ÅÈ£ ¹ŞÀ½
+2025-08-11 09:17:15 [Thread-1] INFO  HeatTask - °¡¿­ ÀÏ½ÃÁ¤ÁöµÊ, ´ë±â Áß...
+2025-08-11 09:31:14 [Thread-1] INFO  HeatTask - ê°€ì—´ ì¼ì‹œì •ì§€ë¨, ëŒ€ê¸° ì¤‘...
+2025-08-11 09:38:33 [Thread-1] INFO  HeatTask - ê°€ì—´ ì¼ì‹œì •ì§€ë¨, ëŒ€ê¸° ì¤‘...
+2025-08-11 10:21:35 [Thread-1] INFO  HeatTask - °¡¿­ ÀÏ½ÃÁ¤ÁöµÊ, ´ë±â Áß...
+2025-08-11 10:21:41 [Thread-2] INFO  HeatTask - [HeatTask] °¡¿­ ½ÃÀÛ ½ÅÈ£ ¹ŞÀ½ ¡æ ½º·¹µå ±ú¿ò
+2025-08-11 10:21:41 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:21:41 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 23µµ
+2025-08-11 10:21:42 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:21:42 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 26µµ
+2025-08-11 10:21:43 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:21:43 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 29µµ
+2025-08-11 10:21:44 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:21:44 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 32µµ
+2025-08-11 10:21:45 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:21:45 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 35µµ
+2025-08-11 10:21:46 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:21:46 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 38µµ
+2025-08-11 10:21:47 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:21:47 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 41µµ
+2025-08-11 10:21:48 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:21:48 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 44µµ
+2025-08-11 10:21:49 [Thread-2] INFO  HeatTask - [HeatTask] °¡¿­ ÁßÁö ½ÅÈ£ ¹ŞÀ½
+2025-08-11 10:21:50 [Thread-1] INFO  HeatTask - °¡¿­ ÀÏ½ÃÁ¤ÁöµÊ, ´ë±â Áß...
+2025-08-11 10:21:56 [Thread-2] INFO  HeatTask - [HeatTask] °¡¿­ ½ÃÀÛ ½ÅÈ£ ¹ŞÀ½ ¡æ ½º·¹µå ±ú¿ò
+2025-08-11 10:21:56 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:21:56 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 47µµ
+2025-08-11 10:21:57 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:21:57 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 50µµ
+2025-08-11 10:21:58 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:21:58 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 53µµ
+2025-08-11 10:21:59 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:21:59 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 56µµ
+2025-08-11 10:22:00 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:00 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 59µµ
+2025-08-11 10:22:01 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:01 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 62µµ
+2025-08-11 10:22:02 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:02 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 65µµ
+2025-08-11 10:22:03 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:03 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 68µµ
+2025-08-11 10:22:04 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:04 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 71µµ
+2025-08-11 10:22:05 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:05 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 74µµ
+2025-08-11 10:22:06 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:06 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 77µµ
+2025-08-11 10:22:07 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:07 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 80µµ
+2025-08-11 10:22:08 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:08 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 83µµ
+2025-08-11 10:22:09 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:09 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 86µµ
+2025-08-11 10:22:10 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:10 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 89µµ
+2025-08-11 10:22:11 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:11 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 92µµ
+2025-08-11 10:22:12 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:12 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 95µµ
+2025-08-11 10:22:13 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:13 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 98µµ
+2025-08-11 10:22:14 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:14 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 100µµ
+2025-08-11 10:22:15 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:15 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 100µµ
+2025-08-11 10:22:16 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:16 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 100µµ
+2025-08-11 10:22:17 [Thread-1] DEBUG HeatTask - 3µµ¾¿ °¡¿­Áß!!
+2025-08-11 10:22:17 [Thread-1] DEBUG HeatTask - ÇöÀç ¿Âµµ: 100µµ
+2025-08-11 10:22:18 [Thread-0] INFO  HeatTask - [HeatTask] °¡¿­ ÁßÁö ½ÅÈ£ ¹ŞÀ½
+2025-08-11 10:22:18 [Thread-1] INFO  HeatTask - °¡¿­ ÀÏ½ÃÁ¤ÁöµÊ, ´ë±â Áß...

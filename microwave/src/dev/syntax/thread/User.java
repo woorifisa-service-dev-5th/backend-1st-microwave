@@ -1,13 +1,20 @@
 package dev.syntax.thread;
 
 import java.util.Scanner;
-
 import dev.syntax.model.Microwave;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 public class User implements Runnable {
+	
+	private static Logger log = LoggerFactory.getLogger(User.class);
+
+	
 	private int userNum;
 	private Microwave microwave;
 	private Scanner scanner;
+
 	public User(int userNum, Microwave microwave) {
 		this.userNum = userNum;
 		this.microwave = microwave;
@@ -16,9 +23,14 @@ public class User implements Runnable {
 
 	@Override
 	public void run() {
+		log.debug("User#{} 스레드 시작", userNum);
 		while (true) {
 			showMenu();
+			log.debug("User#{} 입력 대기 중", userNum);
+			
 			int input = Integer.parseInt(scanner.nextLine());
+			log.debug("입력값: {}", input);
+			
 			handleInput(input);
 		}
 	}
@@ -37,38 +49,46 @@ public class User implements Runnable {
 	private void handleInput(int input) {
 		switch (input) {
 		case 1 -> { // 문 열기 요청
+			log.info("문 열기 요청");
 			microwave.setDoorOpened();
 		}
 		case 2 -> { // 문 닫기 요청
+			log.info("문 닫기 요청");
 			microwave.setDoorClosed();
 		}
-		case 3 -> {
-			if(microwave.getTime()>0) {
+		case 3 -> { //시작 요청
+			log.info("작동 시작 요청");
+			if (microwave.getTime() > 0) {
+				log.debug("남은 시간 있음 → 즉시 작동");
 				microwave.turnOn();
+			} else if (microwave.getIsOpened()) {
+				microwave.arletIsOpened();
 			} else {
+				log.info("작동 시간 입력");
 				System.out.print("작동할 시간(초)을 입력하세요 > ");
 				int seconds = Integer.parseInt(scanner.nextLine());
-
+				log.debug("사용자 입력 시간: {}초", seconds);
 				// 전자레인지에 시간 설정
 				microwave.setTime(seconds);
-
 				microwave.turnOn();
 			}
 		}
 		case 4 -> { // 작동 멈추기 요청
+			log.info("작동 멈추기 요청");
 			microwave.turnOff();
 		}
 		case 5 -> { // 시간 확인 요청
+			log.info("시간 확인 요청");
 			microwave.printTime();
 		}
-
 		case 6 -> { // 종료 요청
-			System.out.println("[LOG][User " + userNum + "] 종료 요청 → 쓰레드 종료");
-			System.out.println("");
-			System.exit(0); // 이건 전체 프로그램 종료
+			log.info("종료 요청 -> 쓰레드 종료");
+			log.info("프로그램 종료");
+			System.exit(0);
 		}
-		default -> System.out.println("[LOG][User " + userNum + "] 잘못된 입력: " + input);
+		
+		default -> log.warn("잘못된 입력: " + input);
+		
 		}
 	}
-
 }

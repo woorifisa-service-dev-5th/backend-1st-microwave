@@ -1,9 +1,14 @@
 package dev.syntax.thread;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import dev.syntax.model.Microwave;
 import dev.syntax.model.MicrowaveListener;
 
 public class Timer implements Runnable, MicrowaveListener {
+
+	private static Logger log = LoggerFactory.getLogger(Timer.class);
 	private int remainTime;
 
 	private Microwave microwave;
@@ -18,13 +23,13 @@ public class Timer implements Runnable, MicrowaveListener {
 	 */
 	public synchronized void cancelTimer() {
 		microwave.turnOff();
-		System.out.println("사용자가 타이머를 종료했습니다.");
+        log.info("사용자가 타이머를 종료했습니다. (남은 시간: {}s)", microwave.getTime());
 	}
 
 	public synchronized void finishAlarm() {
 		microwave.setTime(0);
 		microwave.turnOff();
-		//System.out.println("띠리리리~ 요리가 완료되었습니다!");
+        log.info("요리 완료 알람: 타이머 종료.");
 
 	}
 
@@ -32,14 +37,14 @@ public class Timer implements Runnable, MicrowaveListener {
 
 	@Override
 	public void run() {
+        log.info("Timer 스레드 시작");
 		while (true) {
 			synchronized (this) {
 				while (!microwave.getIsRunning()) {
-					//System.out.println("문열림");
 					try {
-						//System.out.println("타이머 멈춤: " + microwave.getTime());
 						wait();
 					} catch (InterruptedException e) {
+                        log.warn("타이머 대기 중 인터럽트 발생 → 스레드 종료");
 						break;
 					}
 				}
@@ -49,7 +54,7 @@ public class Timer implements Runnable, MicrowaveListener {
 				remainTime = microwave.getTime()-1;
 				microwave.setTime(remainTime);
 				sleep(1000);
-				//System.out.println("남은 시간 :" + remainTime + "초 입니다.");
+                log.debug("틱: {}s 남음", remainTime);
 
 			}
 			
@@ -68,7 +73,7 @@ public class Timer implements Runnable, MicrowaveListener {
     }
 	@Override
 	public void onStart() {
-		//System.out.println("[TimerTask] 타이머 시작 신호 받음");
+        log.info("[TimerTask] 시작 신호 수신");
 		synchronized (this) {
 			this.notify();
 		}
@@ -76,7 +81,7 @@ public class Timer implements Runnable, MicrowaveListener {
 
 	@Override
 	public void onStop() {
-		//System.out.println("[TimerTask] 타이머 중지 신호 받음");
+        log.info("[TimerTask] 중지 신호 수신");
 	}
 
 }

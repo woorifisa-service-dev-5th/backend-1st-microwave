@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <!-- Timer 전용 파일 -->
+        <File name="FileTimer" fileName="logs/timer.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5p %c{1} - %m%n"/>
+        </File>
+
+        <!-- User 전용 파일 -->
+        <File name="FileUser" fileName="logs/user.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5p %c{1} - %m%n"/>
+        </File>
+
+        <!-- HeatTask 전용 파일 -->
+        <File name="FileHeat" fileName="logs/heat.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5p %c{1} - %m%n"/>
+        </File>
+
+        <!-- 모든 로그 합쳐서 저장 -->
+        <File name="FileApp" fileName="logs/app.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5p %c{1} - %m%n"/>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <!-- Timer 로그 -->
+        <Logger name="dev.syntax.thread.Timer" level="debug" additivity="true">
+            <AppenderRef ref="FileTimer"/>
+            <AppenderRef ref="FileApp"/>
+        </Logger>
+
+        <!-- User 로그 -->
+        <Logger name="dev.syntax.thread.User" level="debug" additivity="true">
+            <AppenderRef ref="FileUser"/>
+            <AppenderRef ref="FileApp"/>
+        </Logger>
+
+        <!-- HeatTask 로그 -->
+        <Logger name="dev.syntax.thread.HeatTask" level="debug" additivity="true">
+            <AppenderRef ref="FileHeat"/>
+            <AppenderRef ref="FileApp"/>
+        </Logger>
+
+        <!-- 루트 로그 (필요 없으면 삭제 가능) -->
+        <Root level="warn">
+            <!-- Console 출력이 필요 없으면 주석 처리 -->
+            <!-- <AppenderRef ref="Console"/> -->
+        </Root>
+    </Loggers>
+</Configuration>

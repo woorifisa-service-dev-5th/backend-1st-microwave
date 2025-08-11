@@ -63,7 +63,7 @@ public class Microwave {
 				listener.onStart();
 			}
 		} else {
-			System.out.println("⚠️문을 닫아주세요⚠️");
+			arletIsOpened();
 		}
 	}
 	
@@ -99,6 +99,10 @@ public class Microwave {
 			if(this.inputTime > 0) turnOn();
 					
 		}
+	}
+	
+	public void arletIsOpened() {
+		System.out.println("⚠️문을 닫아주세요⚠️");
 	}
 	
 	public void printTime() {
